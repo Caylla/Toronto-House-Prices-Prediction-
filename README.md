@@ -25,4 +25,5 @@ python src/data_preprocessing.py
 python src/model.py
 python src/evaluate_model.py
 
+![image](https://github.com/user-attachments/assets/96787705-05ea-4b93-866a-8feb243af1a7)
 
