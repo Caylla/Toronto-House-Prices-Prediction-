@@ -38,25 +38,25 @@ python src/evaluate_model.py
 
 The dataset includes the following key features:
 
-Number of Bedrooms
-Number of Bathrooms
-Square Footage
-Neighborhood
-Median Family Income
+- Number of Bedrooms
+- Number of Bathrooms
+- Square Footage
+- Neighborhood
+- Median Family Income
 
 # 📈 Visualization
 
 Explore the dataset and visualize insights using the Matplotlib and Seaborn libraries:
 
-Price Distribution
-Correlation Heatmap
-Feature Importance Plots
+- Price Distribution
+- Correlation Heatmap
+- Feature Importance Plots
 
 # 🧠 Model Details
 
-Algorithm: TensorFlow Decision Forests
-Training: The model is trained on labeled data with relevant features.
-Evaluation Metrics: RMSE (Root Mean Squared Error), MAE (Mean Absolute Error)
+- **Algorithm**: TensorFlow Decision Forests
+- **Training**: The model is trained on labeled data with relevant features.
+- **Evaluation Metrics**: RMSE (Root Mean Squared Error), MAE (Mean Absolute Error)
 
 ![image](https://github.com/user-attachments/assets/96787705-05ea-4b93-866a-8feb243af1a7)
 
